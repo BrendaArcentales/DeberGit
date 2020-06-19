@@ -383,7 +383,7 @@ public class WinFraccion extends javax.swing.JFrame {
     }//GEN-LAST:event_btnSimplicarActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        txtPantalla.setText("Mensaje Eddy");
+        txtPantalla.setText("Nuevo Mensaje de Eddy");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
